@@ -1,0 +1,4 @@
+## TASK 4 CONFIG
+IVA = 0.21  
+DISCOUNT = 0.1  
+CURRENCY = "EUR"
